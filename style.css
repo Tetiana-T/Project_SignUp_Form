@@ -270,6 +270,7 @@ body {
 @media (max-width: 480px) {
     .header-message {
         line-height: 1;
+        text-align: center;
     }
     .text {
         text-align: center;
